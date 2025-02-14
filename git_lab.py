@@ -63,12 +63,5 @@ def is_prime(n):
 
 def add_numbers(a, b):
     """Returns the sumof two numbers"""
-<<<<<<< HEAD
     return a + b
-=======
-    return a / b
 
-def multiply_numbers(a, b):
-    """Returns the product of two numbers."""
-    return a * b
->>>>>>> 1eadc73b6a73bb9a237e79e7953467d744879a2c
