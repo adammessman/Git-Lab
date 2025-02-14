@@ -65,6 +65,3 @@ def add_numbers(a, b):
     """Returns the sumof two numbers"""
     return a / b
 
-def return_one():
-    return 1
-
