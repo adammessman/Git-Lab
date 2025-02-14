@@ -63,5 +63,5 @@ def is_prime(n):
 
 def add_numbers(a, b):
     """Returns the sumof two numbers"""
-    return a * b
+    return a / b
 
